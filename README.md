@@ -3,7 +3,6 @@
 <img src=”https://komarev.com/ghpvc/?username=Aldodev01" alt=”Aldodevv” />
 
                                                         
-                                                        <p align="center">
 <img src="https://github.com/wanderindev/wanderindev/blob/master/assets/about-cover.png" />
 <b>Leisurely exploring the software development world</b>
 </p>
