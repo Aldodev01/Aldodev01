@@ -1,6 +1,5 @@
 
-
-<img src=”https://komarev.com/ghpvc/?username=Aldodev01" alt=”Aldodevv” />
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
                                                         
 <img src="https://github.com/wanderindev/wanderindev/blob/master/assets/about-cover.png" />
