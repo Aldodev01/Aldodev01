@@ -1,6 +1,5 @@
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
 <img src=”https://komarev.com/ghpvc/?username=Aldodev01" alt=”Aldodevv” />
 
                                                         
