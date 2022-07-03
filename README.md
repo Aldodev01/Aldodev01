@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Aldodevv </h1>
-<h3 align="center">A passionate Data Scientist and Open Source contributor  </h3>
+<h3 align="center">A passionate Web Developer and Frontend Engineer </h3>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
